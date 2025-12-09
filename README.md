@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm **Tanish Rajput**</h1>
-<h3 align="center">**AI Engineer** passionate about building **autonomous AI** systems powered by **LLMs** and **Generative AI.**</h3>
+<h1 align="center">Hi 👋, I'm Tanish Rajput</h1>
+<h3 align="center">AI Engineer passionate about building autonomous AI systems powered by LLMs and Generative AI.</h3>
 
 - 🧠 Working with **LLMs**, **RAG**, **Agentic AI**, and **Multi-Agent frameworks**.  
 
