@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tanish Rajput</h1>
-<h3 align="center">AI Enthusiast and Machine Learning Expert Crafting Intelligent Solutions for Tomorrow's Challenges</h3>
+<h1 align="center">Hi 👋, I'm **Tanish Rajput**</h1>
+<h3 align="center">**AI Engineer** passionate about building **autonomous AI** systems powered by **LLMs** and **Generative AI.**</h3>
 
-- 🌱 I’m currently learning **GenAI, AgenticAI**
+- 🧠 Working with **LLMs**, **RAG**, **Agentic AI**, and **Multi-Agent frameworks**.  
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+- 🌱 Exploring advanced **agent orchestration** and **reasoning systems**
 
-- 📫 How to reach me **tanishrajput9@gmail.com**
+- 🤝 Open to **building** and **collaborating** on **high-impact AI products** 
+
+- 📫 Connect :  **tanishrajput9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
