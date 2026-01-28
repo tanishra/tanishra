@@ -7,7 +7,7 @@
 
 - 🤝 Open to **building** and **collaborating** on **high-impact AI products** 
 
-- 📫 Connect :  **tanishrajput9@gmail.com** **er.tanishrajput@gmail.com**
+- 📫 Connect : **er.tanishrajput@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
