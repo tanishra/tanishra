@@ -3,7 +3,7 @@
 
 - 🧠 Working with **LLMs**, **RAG**, **Agentic AI**, and **Multi-Agent frameworks**.  
 
-- 🌱 Exploring advanced **agent orchestration** and **reasoning systems**
+- 🌱 Exploring **AI agent architectures**, their inner workings, and **multi-agent systems**
 
 - 🤝 Open to **building** and **collaborating** on **high-impact AI products** 
 
