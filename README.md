@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanish Rajput</h1>
 <h3 align="center">AI Engineer passionate about building autonomous AI systems powered by LLMs and Generative AI.</h3>
 
-- 🧠 Working with **LLMs**, **RAG**, **Agentic AI**, and **Multi-Agent frameworks**.  
+- Working with **LLMs**, **RAG**, **Agentic AI**, and **Multi-Agent frameworks**.  
 
-- 🌱 Exploring **AI agent architectures**, their inner workings, and **multi-agent systems**
+- Exploring **AI agent architectures**, their inner workings, and **multi-agent systems**
 
-- 🤝 Open to **building** and **collaborating** on **high-impact AI products** 
+- Open to **building** and **collaborating** on **high-impact AI products** 
 
-- 📫 Connect : **tanishrajput9@gmail.com**
+- Connect : **tanishrajput9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 <a href="https://www.leetcode.com/tanish6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanish6" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh8840&label=Profile%20views&color=0e75b6&style=flat" alt="tanishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishra&label=Profile%20views&color=0e75b6&style=flat" alt="tanishra" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
