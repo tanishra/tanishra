@@ -10,10 +10,20 @@
 - Connect : **tanishrajput9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tr26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tr26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanish6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanish6" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/tr26" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.leetcode.com/tanish6" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishra&label=Profile%20views&color=0e75b6&style=flat" alt="tanishra" /> </p>
 
