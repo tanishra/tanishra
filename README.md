@@ -30,23 +30,55 @@
 <div align="center">
   <h3>🛠️ Languages and Tools</h3>
 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  </a>
 
-  <img src="https://img.shields.io/badge/LangChain-0FA958?style=flat&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangSmith-FF4B4B?style=flat&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-1E90FF?style=flat&logo=apacheairflow&logoColor=white" />
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-0FA958?style=flat&logo=chainlink&logoColor=white" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-121212?style=flat&logo=graphql&logoColor=white" />
+  </a>
+  <a href="https://smith.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangSmith-FF4B4B?style=flat&logo=datadog&logoColor=white" />
+  </a>
+  <a href="https://www.crewai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CrewAI-1E90FF?style=flat&logo=apacheairflow&logoColor=white" />
+  </a>
 
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-FF1493?style=flat&logo=protocols&logoColor=white" />
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
+    <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat&logo=semanticweb&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Intelligent_agent" target="_blank">
+    <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=flat&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://modelcontextprotocol.io/" target="_blank">
+    <img src="https://img.shields.io/badge/MCP-FF1493?style=flat&logo=protocols&logoColor=white" />
+  </a>
 
 </div>
