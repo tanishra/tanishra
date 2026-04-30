@@ -9,6 +9,8 @@
 
 - Connect : **tanishrajput9@gmail.com**
 
+- Website : **tanish.website**
+
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
