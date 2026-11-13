@@ -69,9 +69,6 @@
   <a href="https://smith.langchain.com/" target="_blank">
     <img src="https://img.shields.io/badge/LangSmith-FF4B4B?style=flat&logo=datadog&logoColor=white" />
   </a>
-  <a href="https://www.crewai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CrewAI-1E90FF?style=flat&logo=apacheairflow&logoColor=white" />
-  </a>
 
   <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank">
     <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat&logo=semanticweb&logoColor=white" />
